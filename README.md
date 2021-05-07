@@ -1,1 +1,1 @@
-# Email-Classification
+# Email-Classification (Spam/Ham)
